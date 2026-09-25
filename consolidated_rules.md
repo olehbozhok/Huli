@@ -230,6 +230,18 @@
 - **Sa ka ja ven sa boma** — Ми говоримо й добре розуміємо одне одного.
 - **Tu voli iri ja ka maa?** — Ти хочеш піти й побалакати?
 
+## 13b. Прийменники
+| Huli | Значення |
+|------|----------|
+| **nar** | на |
+| **nad** | над |
+| **pik** | під |
+
+Прийменник стоїть перед іменником:
+- **Mi stul nar stulkano** — Я сиджу на стільці.
+- **Mi vidi sondo nad grondo** — Я бачу сонце над землею.
+- **Mi stul pik sondo** — Я сиджу під сонцем.
+
 ## 14. Словник за темами
 
 ### Привітання та ввічливість
@@ -253,6 +265,9 @@ mava, mala, urra
 
 ### Числа
 nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, cent, mil
+
+### Прийменники
+nar, nad, pik
 
 ### Частки
 ta, na, lu, ni, maa, voo, ja
