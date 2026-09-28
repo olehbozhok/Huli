@@ -209,6 +209,7 @@
 | **stulkana** | анус |
 | **stulkano** | стілець (те, на що можна сісти) |
 | **hare** | година (тривалість) |
+| **lin grondo urra** | країна |
 
 Час на годиннику передають явно, через те, що бачать:
 - **Mi vidi du hare** — На годиннику друга (дослівно: я бачу 2 години).
@@ -262,11 +263,15 @@
 | **nar** | на |
 | **nad** | над |
 | **pik** | під |
+| **zak** | за (чимось) |
+| **ove** | через |
 
 Прийменник стоїть перед іменником:
 - **Mi stul nar stulkano** — Я сиджу на стільці.
 - **Mi vidi sondo nad grondo** — Я бачу сонце над землею.
 - **Mi stul pik sondo** — Я сиджу під сонцем.
+- **Mi duba zak stulkano** — Я лежу за стільцем.
+- **Mi iri ove lin grondo urra** — Я йду через країну.
 
 ## 14. Словник за темами
 
@@ -284,7 +289,7 @@ murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto
 boma, bomela, ni bomela, vema, liri
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, lin grondo urra
 
 ### Кількість і множина
 mava, mala, urra
@@ -293,7 +298,7 @@ mava, mala, urra
 nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, cent, mil
 
 ### Прийменники
-nar, nad, pik
+nar, nad, pik, zak, ove
 
 ### Частки
 ta, na, lu, ni, maa, voo, ja, kale
@@ -332,6 +337,7 @@ ta, na, lu, ni, maa, voo, ja, kale
 - **mava lin urra** — багато людей.
 - **Mi ta stul du hare** — Я сидів дві години.
 - **Mi duba nar grondo** — Я лежу на землі.
+- **Mi vidi lin grondo urra** — Я бачу країну.
 - **Mi lu meto tu** — Я зустрінуся з тобою.
 - **Mi vidi du hare** — На годиннику друга (дослівно: я бачу 2 години).
 
