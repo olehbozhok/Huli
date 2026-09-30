@@ -344,59 +344,59 @@ ta, na, lu, ni, maa, voo, ja, kale
 ## 17. Діалоги (приклади)
 
 ### Діалог 1. Привітання
-**A:** Huli! Tu naro voo?  
-— Привіт! Як ти?
-**B:** Huli! Mi naro boma. Tu naro voo?  
-— Привіт! Я почуваюся добре. Як ти?
-**A:** Mi naro vema. Mi voli ka.  
-— Я втомлений. Я хочу балакати.
-**B:** Mi voli ka. Tu ven mi maa?  
-— Я хочу балакати. Ти розумієш мене?
-**A:** Mi ven tu. Sa ka ven boma.  
-— Я розумію тебе. Ми добре спілкуємося.
-**B:** Sa ven sa boma maa?  
-— Ми добре розуміємо одне одного?
-**A:** Sa ven sa boma.  
+**A:** Huli! Tu naro voo?\
+— Привіт! Як ти?\
+**B:** Huli! Mi naro boma. Tu naro voo?\
+— Привіт! Я почуваюся добре. Як ти?\
+**A:** Mi naro vema. Mi voli ka.\
+— Я втомлений. Я хочу балакати.\
+**B:** Mi voli ka. Tu ven mi maa?\
+— Я хочу балакати. Ти розумієш мене?\
+**A:** Mi ven tu. Sa ka ven boma.\
+— Я розумію тебе. Ми добре спілкуємося.\
+**B:** Sa ven sa boma maa?\
+— Ми добре розуміємо одне одного?\
+**A:** Sa ven sa boma.\
 — Ми добре розуміємо одне одного.
 
 ### Діалог 2. Розуміння
-**A:** Tu murr mi maa?  
-— Ти чуєш мене?
-**B:** Mi murr tu. Mi na murr tu.  
-— Я чую тебе. Я зазвичай чую тебе.
-**A:** Tu ven mi maa?  
-— Ти розумієш мене?
-**B:** Mi ven tu. Mi mava ven.  
-— Я розумію тебе. Я багато знаю.
-**A:** Tu mava ven maa? Mi mala ven.  
-— Ти багато знаєш? Я мало знаю.
-**B:** Sa ven sa boma.  
+**A:** Tu murr mi maa?\
+— Ти чуєш мене?\
+**B:** Mi murr tu. Mi na murr tu.\
+— Я чую тебе. Я зазвичай чую тебе.\
+**A:** Tu ven mi maa?\
+— Ти розумієш мене?\
+**B:** Mi ven tu. Mi mava ven.\
+— Я розумію тебе. Я багато знаю.\
+**A:** Tu mava ven maa? Mi mala ven.\
+— Ти багато знаєш? Я мало знаю.\
+**B:** Sa ven sa boma.\
 — Ми добре розуміємо одне одного.
 
 ### Діалог 3. Плани
-**A:** Tu iri maa?  
-— Ти йдеш?
-**B:** Mi iri. Mi lu iri.  
-— Я йду. Я піду.
-**A:** Tu voli iri ja ka maa?  
-— Ти хочеш піти й побалакати?
-**B:** Mi voli ka. Mi ni voli iri.  
-— Я хочу балакати. Я не хочу йти.
-**A:** Mi lu iri. Mi lu luma.  
-— Я піду. Я буду говорити.
-**B:** Mi lu murr tu.  
+**A:** Tu iri maa?\
+— Ти йдеш?\
+**B:** Mi iri. Mi lu iri.\
+— Я йду. Я піду.\
+**A:** Tu voli iri ja ka maa?\
+— Ти хочеш піти й побалакати?\
+**B:** Mi voli ka. Mi ni voli iri.\
+— Я хочу балакати. Я не хочу йти.\
+**A:** Mi lu iri. Mi lu luma.\
+— Я піду. Я буду говорити.\
+**B:** Mi lu murr tu.\
 — Я буду чути тебе.
 
 ### Діалог 4. Настрій
-**A:** Tu naro bomela maa?  
-— Ти радісний?
-**B:** Mi naro ni bomela. Mi naro vema.  
-— Я сумний. Я втомлений.
-**A:** Tu voli ka maa?  
-— Ти хочеш балакати?
-**B:** Mi ni voli ka. Mi voli murr.  
-— Я не хочу балакати. Я хочу слухати.
-**A:** Mi luma. Tu murr mi maa?  
-— Я говорю. Ти чуєш мене?
-**B:** Mi murr tu. Mi ven tu.  
+**A:** Tu naro bomela maa?\
+— Ти радісний?\
+**B:** Mi naro ni bomela. Mi naro vema.\
+— Я сумний. Я втомлений.\
+**A:** Tu voli ka maa?\
+— Ти хочеш балакати?\
+**B:** Mi ni voli ka. Mi voli murr.\
+— Я не хочу балакати. Я хочу слухати.\
+**A:** Mi luma. Tu murr mi maa?\
+— Я говорю. Ти чуєш мене?\
+**B:** Mi murr tu. Mi ven tu.\
 — Я чую тебе. Я розумію тебе.
