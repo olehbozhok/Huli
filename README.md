@@ -25,3 +25,9 @@
 - [consolidated_rules.md](consolidated_rules.md) — граматичний довідник: займенники, час, заперечення, питання, словник, усталені фрази й діалоги.
 - [decisions.md](decisions.md) — журнал ухвалених рішень про мову, з датами й обґрунтуванням.
 - [open_questions.md](open_questions.md) — відкриті питання, які ще треба узгодити.
+
+## Налаштування після клонування
+Один раз увімкнути хук git, який перед кожним комітом форматує Markdown-файли через `format_md.py`:
+```
+git config core.hooksPath .githooks
+```

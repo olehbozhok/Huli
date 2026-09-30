@@ -1,0 +1,21 @@
+#!/bin/sh
+# Format Markdown files with format_md.py and add the fixed files to the commit.
+
+for py in python3 python; do
+    if "$py" -c "" >/dev/null 2>&1; then
+        PY=$py
+        break
+    fi
+done
+if [ -z "$PY" ]; then
+    echo "pre-commit: Python not found, skipping format_md.py" >&2
+    exit 0
+fi
+
+ROOT=$(git rev-parse --show-toplevel)
+"$PY" "$ROOT/format_md.py" || exit 1
+
+# Re-stage only the .md files that were already staged.
+git diff --cached --name-only --diff-filter=ACM -- '*.md' | while IFS= read -r f; do
+    git add -- "$f"
+done

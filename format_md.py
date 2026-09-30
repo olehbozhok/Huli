@@ -1,14 +1,14 @@
-r"""Форматує Markdown-файли Huli.
+r"""Format the Huli Markdown files.
 
-Якщо два непорожні рядки тексту йдуть підряд, Markdown зливає їх в один абзац.
-Скрипт ставить у кінці першого з них `\` (перенос рядка в рендері)
-і прибирає кінцеві пробіли, які теж могли слугувати переносом.
-Заголовки, списки, таблиці, цитати й блоки коду не чіпає.
+Markdown joins two adjacent non-empty text lines into one paragraph.
+The script ends the first of them with `\` (a rendered line break)
+and strips trailing spaces that may have served as a break.
+Headings, lists, tables, quotes and code blocks are left untouched.
 
-Запуск:
-    python format_md.py            # форматувати файли зі списку FILES
-    python format_md.py a.md b.md  # форматувати вказані файли
-    python format_md.py --check    # лише показати, що змінилося б
+Usage:
+    python format_md.py            # format the files listed in FILES
+    python format_md.py a.md b.md  # format the given files
+    python format_md.py --check    # only report what would change
 """
 
 import re
@@ -56,7 +56,7 @@ def main(argv: list[str]) -> int:
         if not check:
             with open(path, "w", encoding="utf-8", newline="") as f:
                 f.write(new)
-    verb = "потрібно відформатувати" if check else "відформатовано"
+    verb = "needs formatting" if check else "formatted"
     for name in changed:
         print(f"{verb}: {name}")
     return 1 if check and changed else 0
