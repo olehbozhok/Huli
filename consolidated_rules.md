@@ -141,12 +141,14 @@
 | **ni bomela** | сумний |
 | **vema** | втомлений |
 | **liri** | зацікавлений |
+| **rado** | готовий |
 
 Конструкція стану: **підмет + naro + стан**
 - **Mi naro boma** — Я почуваюся добре.
 - **Mi naro bomela** — Я радісний.
 - **Tu naro vema** — Ти втомлений.
 - **Mi naro liri** — Я зацікавлений.
+- **Mi naro rado** — Я готовий.
 - **Sa naro bomela** — Ми радісні (наш настрій радісний).
 - **San naro ni bomela** — Він сумний.
 
@@ -286,7 +288,7 @@ mi, tu, san, saan, sa, suun, lin
 murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto
 
 ### Стани й прикметники
-boma, bomela, ni bomela, vema, liri
+boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
 lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, lin grondo urra
