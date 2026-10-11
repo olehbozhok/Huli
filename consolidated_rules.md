@@ -241,6 +241,7 @@
 | **stulkana** | анус |
 | **stulkano** | стілець (те, на що можна сісти) |
 | **hare** | година (тривалість) |
+| **woe** | вода |
 | **lin grondo urra** | країна |
 
 Час на годиннику передають явно, через те, що бачать:
@@ -322,7 +323,7 @@ murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto
 boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, lin grondo urra
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, woe, lin grondo urra
 
 ### Кількість і множина
 mava, mala, urra
