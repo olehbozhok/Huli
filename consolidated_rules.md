@@ -284,6 +284,8 @@
 | **woe** | вода |
 | **aau** | біль |
 | **lin grondo urra** | країна |
+| **bro** | брат |
+| **sro** | сестра |
 
 Час на годиннику передають явно, через те, що бачать:
 - **Mi vidi du hare** — На годиннику друга (дослівно: я бачу 2 години).
@@ -367,7 +369,7 @@ murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima
 boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, woe, aau, lin grondo urra
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, woe, aau, lin grondo urra, bro, sro
 
 ### Кількість і множина
 mava, mala, urra
