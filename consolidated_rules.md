@@ -341,6 +341,7 @@
 | **pik** | під |
 | **zak** | за (чимось) |
 | **ove** | через |
+| **fro** | з (звідкись) |
 
 Прийменник стоїть перед іменником:
 - **Mi stul nar stulkano** — Я сиджу на стільці.
@@ -348,6 +349,7 @@
 - **Mi stul pik sondo** — Я сиджу під сонцем.
 - **Mi duba zak stulkano** — Я лежу за стільцем.
 - **Mi iri ove lin grondo urra** — Я йду через країну.
+- **Mi iri fro lin grondo urra** — Я йду з країни.
 
 ## 14. Словник за темами
 
@@ -378,7 +380,7 @@ mava, mala, urra
 nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, cent, mil
 
 ### Прийменники
-nar, nad, pik, zak, ove
+nar, nad, pik, zak, ove, fro
 
 ### Частки
 ta, na, lu, ni, do, maa, voo, ja, kale
