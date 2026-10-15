@@ -171,6 +171,16 @@
 | **duba** | лежати |
 | **meto** | зустрічати / зустрітися |
 | **aau** | боліти; завдавати болю (комусь) |
+| **lena** | бути десь, перебувати |
+| **es** | бути кимось або чимось |
+| **ima** | мати, володіти |
+| **treb** | потребувати |
+
+**lena**, **es**, **ima**, **treb** — чотири окремі слова для різних ролей «бути» і «мати»:
+- місце — **lena**: **Mi lena tute** — Я тут; **Mi ta lena tamo** — Я був там;
+- тотожність — **es**: **To es stulkano** — Це стілець;
+- володіння — **ima**: **Mi ima stulkano** — Я маю стілець (у мене є стілець);
+- потреба — **treb**: **Mi treb woe** — Мені потрібна вода.
 
 **luma** і **ka**:
 - **Mi luma** — Я говорю (можна й наодинці).
@@ -351,7 +361,7 @@ mi, tu, san, saan, sa, suun, lin
 to, tute, tamo
 
 ### Дієслова
-murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau
+murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb
 
 ### Стани й прикметники
 boma, bomela, ni bomela, vema, liri, rado
