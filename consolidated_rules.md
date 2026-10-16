@@ -202,12 +202,18 @@
 | **es** | бути кимось або чимось |
 | **ima** | мати, володіти |
 | **treb** | потребувати |
+| **par** | вибачати, прощати |
 
 **lena**, **es**, **ima**, **treb** — чотири окремі слова для різних ролей «бути» і «мати»:
 - місце — **lena**: **Mi lena tute** — Я тут; **Mi ta lena tamo** — Я був там;
 - тотожність — **es**: **To es stulkano** — Це стілець;
 - володіння — **ima**: **Mi ima stulkano** — Я маю стілець (у мене є стілець);
 - потреба — **treb**: **Mi treb woe** — Мені потрібна вода.
+
+**par** — вибачати, прощати:
+- **Par do!** — Вибач! / Вибачте!
+- **Par do mi!** — Вибач мені!
+- **Mi par tu** — Я прощаю тебе.
 
 **luma** і **ka**:
 - **Mi luma** — Я говорю (можна й наодинці).
@@ -397,7 +403,7 @@ mi, tu, san, saan, sa, suun, lin
 to, tute, tamo
 
 ### Дієслова
-murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb
+murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par
 
 ### Стани й прикметники
 boma, bomela, ni bomela, vema, liri, rado
