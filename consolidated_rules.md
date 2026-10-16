@@ -204,6 +204,7 @@
 | **treb** | потребувати |
 | **par** | вибачати, прощати |
 | **doke** | дякувати |
+| **hapo** | допомагати |
 
 **lena**, **es**, **ima**, **treb** — чотири окремі слова для різних ролей «бути» і «мати»:
 - місце — **lena**: **Mi lena tute** — Я тут; **Mi ta lena tamo** — Я був там;
@@ -226,6 +227,10 @@
 - **Ta doke** — у відповідь на подяку (подяку вже сказано, нема за що): **Doke!** — **Ta doke.** — Дякую! — Будь ласка.
 
 Повне речення **Mi ta doke tu** — звичайне «Я подякував тобі», а не «нема за що».
+
+**hapo** — допомагати:
+- **Mi hapo tu** — Я допомагаю тобі.
+- **Hapo do mi, lu doke!** — Допоможи мені, будь ласка!
 
 **luma** і **ka**:
 - **Mi luma** — Я говорю (можна й наодинці).
@@ -441,7 +446,7 @@ mi, tu, san, saan, sa, suun, lin
 to, tute, tamo
 
 ### Дієслова
-murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par, doke
+murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par, doke, hapo
 
 ### Стани й прикметники
 boma, bomela, ni bomela, vema, liri, rado
