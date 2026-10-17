@@ -462,7 +462,7 @@
 - **Sa ka ja ven boma** — Ми добре розмовляємо й розуміємо (загалом).
 - **Sa ka ja ven sa boma** / **Sa ka ja ven boma sa** — Ми добре розмовляємо й розуміємо одне одного.
 
-## 13a. Сполучники **ja**, **kale**, **ke**, **beko**
+## 13a. Сполучники **ja**, **kale**, **ke**, **beko**, **ake**
 **ja** — «і / та». З’єднує слова, дієслова й речення:
 - **Sa ka ja ven sa boma** — Ми розмовляємо й добре розуміємо одне одного.
 - **Tu voli iri ja ka maa?** — Ти хочеш піти й побалакати?
@@ -486,6 +486,11 @@
 
 **beko** — «бо / тому що». Приєднує причину. Ним відповідають на **kela** («чому?») повним реченням:
 - **Tu ta iri kela?** — **Mi ta iri beko mi naro vema** — Чому ти пішов? — Я пішов, бо втомлений.
+
+**ake** — «якщо». Приєднує умову:
+- **Mi lu iri ake tu naro vema** — Я піду, якщо ти втомлений.
+
+Наголос в **ake** на першому складі, «Аке» [ˈakɛ]: так «а» не губиться після слів на **-a** (**vema ake** не зливається у **vema ke**), а від **kee** («кеЕ») слово відрізняється місцем наголосу.
 
 ## 13b. Прийменники
 | Huli | Значення |
@@ -562,7 +567,7 @@ sedau, zadau, predau
 nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de
 
 ### Частки
-ta, na, lu, ni, do, maa, voo, ja, kale, ke, beko, kee, kilko, kela, kika, fa
+ta, na, lu, ni, do, maa, voo, ja, kale, ke, beko, ake, kee, kilko, kela, kika, fa
 
 ## 15. Усталені фрази
 | Huli | Переклад |
