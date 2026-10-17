@@ -23,6 +23,7 @@
 
 ## Файли
 - [consolidated_rules.md](consolidated_rules.md) — граматичний довідник: займенники, час, заперечення, питання, словник, усталені фрази й діалоги.
+- [pronunciation.md](pronunciation.md) — вимова й письмо: абетка, читання літер, наголос.
 - [decisions.md](decisions.md) — журнал ухвалених рішень про мову, з датами й обґрунтуванням.
 - [open_questions.md](open_questions.md) — відкриті питання, які ще треба узгодити.
 
