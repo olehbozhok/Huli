@@ -105,5 +105,6 @@ a b d e f g h i j k l m n o p q r s t u v x z
 | **kale** | кАле | [ˈkalɛ] |
 | **kela** | келА | [kɛˈla] |
 | **aro** | арО | [aˈrɔ] |
+| **dau** | даУ | [daˈu] |
 | **uri** | Урі | [ˈuri] |
 | **kosto** | кОсто | [ˈkɔstɔ] |

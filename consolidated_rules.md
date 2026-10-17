@@ -112,6 +112,10 @@
 
 > Частка **na** не пропускається: без неї дія завжди сприймається як така, що відбувається саме зараз.
 
+Слово часу не замінює часову частку. Про дію в майбутньому кажуть з **lu** і тоді, коли в реченні є **zadau** чи **za** (див. розділ 11):
+- **Mi lu iri zadau** — Я піду завтра.
+- **Mi lu iri za du hare** — Я піду через дві години.
+
 ## 6. Заперечення
 - **ni** — заперечення. Заперечує слово, що стоїть одразу після нього: дієслово, прикметник або часову частку.
 - **ni + прикметник** = протилежний стан.
@@ -375,6 +379,7 @@
 | **minu** | хвилина |
 | **seku** | секунда |
 | **aro** | рік |
+| **dau** | день |
 | **voe** | вода |
 | **aau** | біль |
 | **lin grondo urra** | країна |
@@ -388,15 +393,32 @@
 Час дії теж позначають через **kale vidi ... hare**, дослівно «коли бачити 2 години». Підмета після **kale** не треба: хто бачить, зрозуміло з контексту.
 - **Sa lu meto sa kale vidi du hare** — Ми зустрінемося о другій годині.
 
-Тривалість завжди позначає прийменник **thro** перед групою з часом. Без **thro** число + **hare** — це лише час на годиннику:
+Тривалість завжди позначає прийменник **thro**, а проміжок часу від моменту мовлення — прийменники **za** («через») і **pre** («тому»). Прийменник стоїть перед групою з часом. Без прийменника число + **hare** — це лише час на годиннику:
 - **Mi ta stul thro du hare** — Я сидів дві години.
 - **Mi vidi thro du hare** — Я дивлюся дві години.
+- **Mi lu iri za du hare** — Я піду через дві години.
+- **San ta iri pre du hare** — Він пішов дві години тому.
 - **Mi vidi du hare** — На годиннику друга.
 
 Якщо одиниць часу кілька, кожна стоїть зі своїм числом, підряд від більшої до меншої, без сполучника:
 - **Mi vidi du hare dek minu** — На годиннику 2:10.
 - **Mi ta stul thro du hare dek minu** — Я сидів дві години десять хвилин.
 - **Mi ta stul thro tri minu dek seku** — Я сидів три хвилини десять секунд.
+
+Для найближчих днів є окремі слова, їх пишуть разом:
+| Huli | Значення |
+|------|----------|
+| **sedau** | сьогодні |
+| **zadau** | завтра |
+| **predau** | вчора |
+
+- **Mi lu iri zadau** — Я піду завтра.
+- **Mi ta duba nar dubakano predau** — Учора я лежав на ліжку.
+
+Далі дні рахують через **za** і **pre**, як і решту одиниць часу:
+- **Mi lu iri za du dau** — Я піду через два дні.
+- **Mi ta iri pre du dau** — Я пішов два дні тому.
+- **San ta iri pre tri aro** — Він пішов три роки тому.
 
 ## 11a. Словотвір: **-kano**
 **дієслово + kano** — те, на чому чи в чому роблять дію:
@@ -458,6 +480,8 @@
 | **ove** | через |
 | **fro** | з (звідкись) |
 | **thro** | позначає тривалість (перед групою з часом) |
+| **za** | через (скільки часу від моменту мовлення) |
+| **pre** | (скільки часу) тому |
 | **ui** | позначає того, кого змушують (після **fa**) або кому щось роблять |
 | **de** | позначає власника: річ + **de** + власник (див. розділ 3) |
 
@@ -469,6 +493,8 @@
 - **Mi iri ove lin grondo urra** — Я йду через країну.
 - **Mi iri fro lin grondo urra** — Я йду з країни.
 - **Mi ta stul thro du hare** — Я сидів дві години.
+- **Mi lu iri za du dau** — Я піду через два дні.
+- **Mi ta iri pre du dau** — Я пішов два дні тому.
 - **Mi fa vidi stulkano ui tu** — Я показую тобі стілець.
 
 Прийменник бере всю групу слів після себе, разом із присвійною парою:
@@ -504,7 +530,7 @@ murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima
 boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakano, urikano, hare, minu, seku, aro, voe, aau, lin grondo urra, bro, sro, loko
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakano, urikano, hare, minu, seku, aro, dau, voe, aau, lin grondo urra, bro, sro, loko
 
 ### Кількість і множина
 mava, mala, urra
@@ -512,8 +538,11 @@ mava, mala, urra
 ### Числа
 nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil
 
+### Час
+sedau, zadau, predau
+
 ### Прийменники
-nar, nad, pik, zak, ove, fro, thro, ui, de
+nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de
 
 ### Частки
 ta, na, lu, ni, do, maa, voo, ja, kale, kee, kilko, kela, fa
