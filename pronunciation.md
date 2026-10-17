@@ -106,6 +106,7 @@ a b d e f g h i j k l m n o p q r s t u v x z
 | **kilko** | кІлко | [ˈkilkɔ] |
 | **kale** | кАле | [ˈkalɛ] |
 | **kela** | келА | [kɛˈla] |
+| **kika** | кікА | [kiˈka] |
 | **aro** | арО | [aˈrɔ] |
 | **dau** | даУ | [daˈu] |
 | **uri** | Урі | [ˈuri] |
