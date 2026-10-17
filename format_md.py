@@ -16,7 +16,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-FILES = ["consolidated_rules.md", "to_translate.md"]
+FILES = ["consolidated_rules.md", "pronunciation.md", "to_translate.md"]
 
 BREAK = "\\"
 BLOCK = re.compile(r"^\s*(#|[-*+] |\d+\. |\||>|```)")
