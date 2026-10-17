@@ -15,8 +15,10 @@
 - Речення без дієслова дозволене: **Mi fro Ukraina** — Я з України.
 - Немає відмінків і складних закінчень.
 - Для маскування звичайні слова мають неочевидні значення.
-- Абетка — літери англійської абетки (a–z) без **w**, без діакритики. Запозичені слова пишуться лише цими літерами: Esperanto **ŭ** → **u** (*naŭ* → **nau**), **w** → **v**.
-- **th** читається як два звуки, **t** + **h**, а не як один: **thro** — «тхро» (**Mi ta stul thro du hare** — Я сидів дві години).
+- Абетка — базова латиниця без **c**, **w** і **y**, без діакритики: a b d e f g h i j k l m n o p q r s t u v x z. Запозичені слова пишуться лише цими літерами: Esperanto **ŭ** → **u** (*naŭ* → **nau**), Esperanto **c** → **ts** (*cent* → **tsent**), **w** → **v**.
+- Сполучення літер читаються як два окремі звуки: **th** — **t** + **h** (**thro** — «тхро»), **ts** — **t** + **s** (**tsent** — «цент»):
+  - **Mi ta stul thro du hare** — Я сидів дві години.
+  - **Mi vidi tsent lin** — Я бачу сто людей.
 - **Huli** — це і назва мови, і привітання «привіт».
 
 ## 2. Займенники
@@ -323,12 +325,12 @@
 | **ok** | 8 |
 | **nau** | 9 |
 | **dek** | 10 |
-| **cent** | 100 |
+| **tsent** | 100 |
 | **mil** | 1000 |
 
-Складені числа будуються за зразком Esperanto: множник пишеться разом із **dek** / **cent**, а додаток іде окремим словом.
+Складені числа будуються за зразком Esperanto: множник пишеться разом із **dek** / **tsent**, а додаток іде окремим словом.
 - **dek unu** — 11, **dudek** — 20, **dudek tri** — 23
-- **tricent** — 300, **mil naucent** — 1900
+- **tritsent** — 300, **mil nautsent** — 1900
 
 Приклади:
 - **Mi vidi tri lin** — Я бачу трьох людей.
@@ -347,7 +349,9 @@
 | **stulka** | сідниці |
 | **stulkana** | анус |
 | **stulkano** | стілець (те, на що можна сісти) |
-| **hare** | година (тривалість) |
+| **hare** | година |
+| **minu** | хвилина |
+| **seku** | секунда |
 | **voe** | вода |
 | **aau** | біль |
 | **lin grondo urra** | країна |
@@ -365,6 +369,11 @@
 - **Mi ta stul thro du hare** — Я сидів дві години.
 - **Mi vidi thro du hare** — Я дивлюся дві години.
 - **Mi vidi du hare** — На годиннику друга.
+
+Якщо одиниць часу кілька, кожна стоїть зі своїм числом, підряд від більшої до меншої, без сполучника:
+- **Mi vidi du hare dek minu** — На годиннику 2:10.
+- **Mi ta stul thro du hare dek minu** — Я сидів дві години десять хвилин.
+- **Mi ta stul thro tri minu dek seku** — Я сидів три хвилини десять секунд.
 
 ## 12. **boma** — прикметник і прислівник
 Закінчень у Huli немає, тож частину мови визначає позиція:
@@ -460,13 +469,13 @@ murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima
 boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, voe, aau, lin grondo urra, bro, sro, loko
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, hare, minu, seku, voe, aau, lin grondo urra, bro, sro, loko
 
 ### Кількість і множина
 mava, mala, urra
 
 ### Числа
-nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, cent, mil
+nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil
 
 ### Прийменники
 nar, nad, pik, zak, ove, fro, thro, ui
