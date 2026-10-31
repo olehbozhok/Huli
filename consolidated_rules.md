@@ -388,6 +388,13 @@
 | **bro** | брат |
 | **loko** | місце |
 | **sro** | сестра |
+| **paro** | папа |
+| **maro** | мама |
+| **pamaro** | батьки |
+
+- **San es mi paro** — Він мій папа.
+- **Saan es mi maro** — Вона моя мама.
+- **Mi vidi mi pamaro** — Я бачу своїх батьків.
 
 Час на годиннику передають явно, через те, що бачать:
 - **Mi vidi du hare** — На годиннику друга (дослівно: я бачу 2 години).
@@ -555,7 +562,7 @@ murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima
 boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakano, urikano, hare, minu, seku, aro, dau, voe, aau, lin grondo urra, bro, sro, loko
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakano, urikano, hare, minu, seku, aro, dau, voe, aau, lin grondo urra, bro, sro, paro, maro, pamaro, loko
 
 ### Кількість і множина
 mava, mala, urra
