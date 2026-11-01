@@ -113,3 +113,10 @@ a b d e f g h i j k l m n o p q r s t u v x z
 | **kosto** | кОсто | [ˈkɔstɔ] |
 | **beko** | бекО | [bɛˈkɔ] |
 | **ake** | Аке | [ˈakɛ] |
+| **aba** | Аба | [ˈaba] |
+| **zai** | зАі | [ˈzai] |
+| **hai** | хАі | [ˈxai] |
+
+**zai** і **hai** допустимо читати одним складом: «зАй» [zaj], «хАй» [xaj].
+
+Приклад: **Mi stul hai** — «мі стул хАі» [mi stul ˈxai] — Я ще сиджу.

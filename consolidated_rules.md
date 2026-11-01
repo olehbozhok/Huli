@@ -116,6 +116,17 @@
 - **Mi lu iri zadau** — Я піду завтра.
 - **Mi lu iri za du hare** — Я піду через дві години.
 
+**jo** — «вже», **hai** — «ще / досі». Вони стоять після слова, якого стосуються:
+- **Mi iri jo** — Я вже йду.
+- **Mi stul hai** — Я ще сиджу.
+- **Mi voli iri jo** — Я хочу вже піти.
+- **Mi voli jo iri** — Я вже хочу піти.
+
+Часова частка й **ni** лишаються перед дієсловом:
+- **Mi ta iri jo** — Я вже пішов.
+- **Mi ni stul jo** — Я вже не сиджу.
+- **Mi ni stul hai** — Я ще не сиджу.
+
 ## 6. Заперечення
 - **ni** — заперечення. Заперечує слово, що стоїть одразу після нього: дієслово, прикметник або часову частку.
 - **ni + прикметник** = протилежний стан.
@@ -469,13 +480,16 @@
 - **Sa ka ja ven boma** — Ми добре розмовляємо й розуміємо (загалом).
 - **Sa ka ja ven sa boma** / **Sa ka ja ven boma sa** — Ми добре розмовляємо й розуміємо одне одного.
 
-## 13a. Сполучники **ja**, **bat**, **kale**, **ke**, **beko**, **ake**
+## 13a. Сполучники **ja**, **bat**, **aba**, **kale**, **ke**, **beko**, **ake**
 **ja** — «і / та». З’єднує слова, дієслова й речення:
 - **Sa ka ja ven sa boma** — Ми розмовляємо й добре розуміємо одне одного.
 - **Tu voli iri ja ka maa?** — Ти хочеш піти й побалакати?
 
 **bat** — «але». Протиставляє дві частини речення:
 - **Mi voli iri, bat mi naro vema** — Я хочу піти, але я втомлений.
+
+**aba** — «або»:
+- **Tu voli iri aba ka maa?** — Ти хочеш піти або побалакати?
 
 **kale** — «коли». Приєднує частину речення з часом дії. Підмет після **kale** можна не називати, якщо він зрозумілий з контексту:
 - **Sa lu meto sa kale vidi du hare** — Ми зустрінемося о другій годині.
@@ -516,6 +530,8 @@
 | **pre** | (скільки часу) тому |
 | **ui** | позначає того, кого змушують (після **fa**) або кому щось роблять |
 | **de** | позначає власника: річ + **de** + власник (див. розділ 3) |
+| **zai** | в, у |
+| **su** | з (разом) |
 
 Прийменник стоїть перед іменником:
 - **Mi stul nar stulkano** — Я сиджу на стільці.
@@ -528,6 +544,8 @@
 - **Mi lu iri za du dau** — Я піду через два дні.
 - **Mi ta iri pre du dau** — Я пішов два дні тому.
 - **Mi fa vidi stulkano ui tu** — Я показую тобі стілець.
+- **Mi lena zai urikano** — Я в туалеті.
+- **Mi iri su bro** — Я йду з братом.
 
 Прийменник бере всю групу слів після себе, разом із присвійною парою:
 - **Mi stul nar tu stulkano** — Я сиджу на твоєму стільці.
@@ -571,13 +589,13 @@ mava, mala, urra
 nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil
 
 ### Час
-sedau, zadau, predau
+sedau, zadau, predau, jo, hai
 
 ### Прийменники
-nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de
+nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de, zai, su
 
 ### Частки
-ta, na, lu, ni, do, maa, voo, ja, bat, kale, ke, beko, ake, kee, kilko, kela, kika, fa
+ta, na, lu, ni, do, maa, voo, ja, bat, aba, kale, ke, beko, ake, kee, kilko, kela, kika, fa
 
 ## 15. Усталені фрази
 | Huli | Переклад |
