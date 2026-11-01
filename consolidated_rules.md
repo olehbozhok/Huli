@@ -436,6 +436,10 @@
 - **San ta iri pre du hare** — Він пішов дві години тому.
 - **Mi vidi du hare** — На годиннику друга.
 
+Межу в часі позначає **tovo**, а початок — **fro**. Число + **hare** тут означає час на годиннику:
+- **Mi ta stul tovo du hare** — Я сидів до другої години.
+- **Mi ta stul fro du hare tovo tri hare** — Я сидів з другої до третьої години.
+
 Якщо одиниць часу кілька, кожна стоїть зі своїм числом, підряд від більшої до меншої, без сполучника:
 - **Mi vidi du hare dek minu** — На годиннику 2:10.
 - **Mi ta stul thro du hare dek minu** — Я сидів дві години десять хвилин.
@@ -540,7 +544,7 @@
 | **pik** | під |
 | **zak** | за (чимось) |
 | **ove** | через |
-| **fro** | з (звідкись) |
+| **fro** | з (звідкись; також початок у часі) |
 | **thro** | позначає тривалість (перед групою з часом) |
 | **za** | через (скільки часу від моменту мовлення) |
 | **pre** | (скільки часу) тому |
@@ -548,6 +552,7 @@
 | **de** | позначає власника: річ + **de** + власник (див. розділ 3) |
 | **zai** | в, у |
 | **su** | з (разом) |
+| **tovo** | до: точка, де рух або дія закінчується |
 
 Прийменник стоїть перед іменником:
 - **Mi stul nar stulkano** — Я сиджу на стільці.
@@ -562,6 +567,8 @@
 - **Mi fa vidi stulkano ui tu** — Я показую тобі стілець.
 - **Mi lena zai urikano** — Я в туалеті.
 - **Mi iri su bro** — Я йду з братом.
+- **Mi iri tovo stulkano** — Я йду до стільця.
+- **Mi iri fro stulkano tovo dubakano** — Я йду від стільця до ліжка.
 
 Прийменник бере всю групу слів після себе, разом із присвійною парою:
 - **Mi stul nar tu stulkano** — Я сиджу на твоєму стільці.
@@ -608,7 +615,7 @@ nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil, unua, dua, tr
 sedau, zadau, predau, jo, hai
 
 ### Прийменники
-nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de, zai, su
+nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de, zai, su, tovo
 
 ### Частки
 ta, na, lu, ni, do, maa, voo, ja, bat, aba, kale, ke, beko, ake, kee, kilko, kela, kika, fa
