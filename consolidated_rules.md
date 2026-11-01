@@ -373,6 +373,20 @@
 - **Mi vidi tri lin** — Я бачу трьох людей.
 - **Du lin luma** — Двоє людей говорять.
 
+Порядкові числа теж утворюються за зразком Esperanto: до числа додають **-a**.
+- **unu** → **unua** — перший
+- **du** → **dua** — другий
+- **tri** → **tria** — третій
+- **kvar** → **kvara** — четвертий
+- **dek** → **deka** — десятий
+
+У складених числах **-a** стоїть лише на останньому слові: **dudek tri** → **dudek tria** — двадцять третій.
+
+Приклади:
+- **Mi vidi dua lin** — Я бачу другу людину.
+- **Mi vidi du lin** — Я бачу двох людей.
+- **Mi vidi dudek tria lin** — Я бачу двадцять третю людину.
+
 ## 11. Іменники
 | Huli | Значення |
 |------|----------|
@@ -451,7 +465,7 @@
 - **Mi duba nar dubakano** — Я лежу на ліжку.
 
 ## 12. **boma** — прикметник і прислівник
-Закінчень у Huli немає, тож частину мови визначає позиція:
+Закінчень у Huli немає (крім **-a** порядкових чисел, розділ 10a), тож частину мови визначає позиція:
 - після **naro** або біля іменника **boma** — прикметник/стан «добрий, добре»: **Mi naro boma** — Я почуваюся добре;
 - біля дієслова (перед ним або після) **boma** — прислівник «добре»:
 - **Tu boma ven mi** — Ти добре мене розумієш.
@@ -586,7 +600,7 @@ lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakan
 mava, mala, urra
 
 ### Числа
-nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil
+nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil, unua, dua, tria, kvara, deka
 
 ### Час
 sedau, zadau, predau, jo, hai
