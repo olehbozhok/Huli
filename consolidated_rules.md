@@ -68,13 +68,19 @@
 ## 3b. Сторони
 | Huli | Значення |
 |------|----------|
+| **livo** | лівий |
+| **pravo** | правий |
 | **livori** | ліворуч |
 | **pravori** | праворуч |
 
-**livori** і **pravori** стоять після дієслова або додатка, як **tute** і **tamo**; перед підметом вони стояти не можуть:
+**-ri** — суфікс «у бік»: **livo** + **-ri** = **livori**, **pravo** + **-ri** = **pravori**.
+
+**livo** і **pravo** — прикметники, вони стоять після іменника. **livori** і **pravori** — прислівники, вони стоять безпосередньо після дієслова. Перед підметом ці слова стояти не можуть.
 - **Mi iri livori** — Я йду ліворуч.
-- **Mi vidi stulkano livori** — Я бачу стілець ліворуч.
 - **Urikano lena pravori** — Туалет праворуч.
+- **Mi vidi livori stulkano** — Я бачу ліворуч стілець.
+- **Mi vidi stulkano livo** — Я бачу лівий стілець.
+- **Stulkano livo es tamo** — Лівий стілець там.
 
 «Від кого чи чого» — через **de**, після прислівника:
 - **Mi stul livori de tu** — Я сиджу ліворуч від тебе.
@@ -646,7 +652,7 @@ mi, tu, san, saan, sa, suun, lin
 to, tute, tamo
 
 ### Сторони
-livori, pravori
+livo, pravo, livori, pravori
 
 ### Дієслова
 murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par, doke, hapo, uri, kosto, moga
