@@ -65,6 +65,21 @@
 - **Mi stul tute** — Я сиджу тут.
 - **San duba tamo** — Він лежить там.
 
+## 3b. Сторони
+| Huli | Значення |
+|------|----------|
+| **livori** | ліворуч |
+| **pravori** | праворуч |
+
+**livori** і **pravori** стоять після дієслова або додатка, як **tute** і **tamo**; перед підметом вони стояти не можуть:
+- **Mi iri livori** — Я йду ліворуч.
+- **Mi vidi stulkano livori** — Я бачу стілець ліворуч.
+- **Urikano lena pravori** — Туалет праворуч.
+
+«Від кого чи чого» — через **de**, після прислівника:
+- **Mi stul livori de tu** — Я сиджу ліворуч від тебе.
+- **Urikano lena pravori de dubakano** — Туалет праворуч від ліжка.
+
 ## 4. Множина
 Множина утворюється часткою **urra**, яка **завжди стоїть одразу після іменника**.
 - **lin** — людина → **lin urra** — люди
@@ -629,6 +644,9 @@ mi, tu, san, saan, sa, suun, lin
 
 ### Вказівні слова
 to, tute, tamo
+
+### Сторони
+livori, pravori
 
 ### Дієслова
 murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par, doke, hapo, uri, kosto, moga
