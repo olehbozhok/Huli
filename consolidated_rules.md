@@ -240,6 +240,7 @@
 | **hapo** | допомагати |
 | **uri** | ходити в туалет |
 | **kosto** | коштувати |
+| **moga** | могти |
 
 **lena**, **es**, **ima**, **treb** — чотири окремі слова для різних ролей «бути» і «мати»:
 - місце — **lena**: **Mi lena tute** — Я тут; **Mi ta lena tamo** — Я був там;
@@ -273,6 +274,11 @@
 **kosto** — коштувати:
 - **To kosto kilko?** — Скільки це коштує?
 - **To kosto dek** — Це коштує десять.
+
+**moga** — могти. Стоїть перед іншим дієсловом, як **voli**:
+- **Mi moga iri** — Я можу йти.
+- **Mi ni moga iri** — Я не можу йти.
+- **Tu moga ka maa?** — Ти можеш побалакати?
 
 **luma** і **ka**:
 - **Mi luma** — Я говорю (можна й наодинці).
@@ -414,6 +420,7 @@
 | **vekto** | вечір |
 | **nokto** | ніч |
 | **voe** | вода |
+| **nami** | ім'я |
 | **aau** | біль |
 | **lin grondo urra** | країна |
 | **bro** | брат |
@@ -463,6 +470,11 @@
 - **Mi lu iri za du dau** — Я піду через два дні.
 - **Mi ta iri pre du dau** — Я пішов два дні тому.
 - **San ta iri pre tri aro** — Він пішов три роки тому.
+
+**nami** — ім'я. «Як тебе звати?» — це питання про ім'я, тож у ньому **es**:
+- **Mi nami es Oleh** — Мене звати Олег (моє ім'я — Олег).
+- **Tu nami es kee?** — Як тебе звати? (**maa** не потрібна: речення закінчується питальним словом)
+- **Nami de bro es Oleh** — Брата звати Олег.
 
 ## 11a. Словотвір: **-kano**
 **дієслово + kano** — те, на чому чи в чому роблять дію:
@@ -619,13 +631,13 @@ mi, tu, san, saan, sa, suun, lin
 to, tute, tamo
 
 ### Дієслова
-murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par, doke, hapo, uri, kosto
+murr, vidi, luma, ka, ven, voli, iri, naro, stul, duba, meto, aau, lena, es, ima, treb, par, doke, hapo, uri, kosto, moga
 
 ### Стани й прикметники
 boma, bomela, ni bomela, vema, liri, rado
 
 ### Іменники
-lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakano, urikano, hare, minu, seku, aro, dau, voe, aau, lin grondo urra, bro, sro, paro, maro, pamaro, loko
+lin, gova, naro, nato, grondo, sondo, vindo, stulka, stulkana, stulkano, dubakano, urikano, hare, minu, seku, aro, dau, voe, aau, lin grondo urra, bro, sro, paro, maro, pamaro, loko, nami
 
 ### Кількість і множина
 mava, mala, urra

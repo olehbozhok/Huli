@@ -121,6 +121,8 @@ a b d e f g h i j k l m n o p q r s t u v x z
 | **dakto** | дАкто | [ˈdakto] |
 | **vekto** | вЕкто | [ˈvɛkto] |
 | **nokto** | нОкто | [ˈnɔkto] |
+| **moga** | мОга | [ˈmɔga] |
+| **nami** | нАмі | [ˈnami] |
 
 **zai** і **hai** допустимо читати одним складом: «зАй» [zaj], «хАй» [xaj].
 
