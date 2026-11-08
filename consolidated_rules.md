@@ -408,7 +408,11 @@
 | **minu** | хвилина |
 | **seku** | секунда |
 | **aro** | рік |
-| **dau** | день |
+| **dau** | день (доба) |
+| **rakto** | ранок |
+| **dakto** | день (світла частина доби) |
+| **vekto** | вечір |
+| **nokto** | ніч |
 | **voe** | вода |
 | **aau** | біль |
 | **lin grondo urra** | країна |
@@ -469,6 +473,14 @@
 Приклади:
 - **Urikano lena kee loko maa?** — Де туалет?
 - **Mi duba nar dubakano** — Я лежу на ліжку.
+
+## 11b. Словотвір: **-kto**
+**-kto** — суфікс частин доби: **rakto** (ранок), **dakto** (світла частина доби), **vekto** (вечір), **nokto** (ніч). Слово **dau** означає добу чи календарний день, а **dakto** — лише світлу частину доби.
+
+Слова частин доби вживають без прийменника, як **sedau** і **zadau**:
+- **Mi lu iri vekto** — Я піду ввечері.
+- **Mi ta stul rakto** — Я сидів уранці.
+- **Mi ta duba nokto** — Я лежав уночі.
 
 ## 12. **boma** — прикметник і прислівник
 Закінчень у Huli немає (крім **-a** порядкових чисел, розділ 10a), тож частину мови визначає позиція:
@@ -612,7 +624,7 @@ mava, mala, urra
 nul, unu, du, tri, kvar, kvin, ses, sep, ok, nau, dek, tsent, mil, unua, dua, tria, kvara, deka
 
 ### Час
-sedau, zadau, predau, jo, hai
+sedau, zadau, predau, rakto, dakto, vekto, nokto, jo, hai
 
 ### Прийменники
 nar, nad, pik, zak, ove, fro, thro, za, pre, ui, de, zai, su, tovo

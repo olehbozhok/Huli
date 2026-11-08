@@ -117,6 +117,10 @@ a b d e f g h i j k l m n o p q r s t u v x z
 | **zai** | зАі | [ˈzai] |
 | **hai** | хАі | [ˈxai] |
 | **tovo** | тОво | [ˈtɔʋɔ] |
+| **rakto** | рАкто | [ˈrakto] |
+| **dakto** | дАкто | [ˈdakto] |
+| **vekto** | вЕкто | [ˈvɛkto] |
+| **nokto** | нОкто | [ˈnɔkto] |
 
 **zai** і **hai** допустимо читати одним складом: «зАй» [zaj], «хАй» [xaj].
 
